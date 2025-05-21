@@ -1,0 +1,22 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+
+# Virtual environment
+env/
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# Secrets
+*.env
+
+# OS
+.DS_Store
+
+# PyMongo settings (optional)
+*.pkl
